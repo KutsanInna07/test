@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  max-width: 350px;
+  margin: 50px auto;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 40px;
+  border: 1px solid #ccc;
+}
+
+.reliability {
+  display: flex;
+  justify-content: center;
+  margin-block: 10px;
+}
+
+.sec {
+  width: 50px;
+  height: 20px;
+  margin: 0 10px;
+  border-radius: 10px;
+  background-color: gray;
+}
